@@ -2,14 +2,14 @@
 
 html {
     margin: 25px;
-    background-color: lightblue;
+    background-color: rgb(43, 208, 178);
     font-family: verdana;
     font-size: 20px;
 }
 
 h3 {
     margin-top: 20px;
-    background-color: lightblue;
+    background-color: rgb(43, 208, 178);
     font-size: 30px;
     font-weight: bolder;
 }
@@ -17,5 +17,18 @@ h3 {
 p {
     margin-top: 10px;
     margin-left: 15px;
-    background-color: lightblue;
+    background-color: rgb(43, 208, 178);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+ul {
+    font-size: 25px;
+    font-weight: 600;
+    list-style-type: disc;
+}
+
+.main {
+    font-size: 50px;
+    font-weight: bolder;
 }
